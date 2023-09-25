@@ -1,0 +1,26 @@
+
+.myDiv {
+  background-color: white;
+  text-align: center;
+}
+
+.center-image {
+    text-align: center;
+}
+
+p {
+    text-align: center; 
+}
+
+  .footer {
+    clear: both; 
+  }
+
+  .footer div {
+    float: left;
+    /* margin-right: 5px; */
+    width: 20%; 
+    text-align: center; 
+    background-color: red; 
+    padding: 10px; 
+  }
