@@ -24,3 +24,57 @@ p {
     background-color: red; 
     padding: 10px; 
   }
+
+  body {
+    background: linear-gradient(to left, #ee82ee, #4b0082, #0000ff, #008000, #ffff00, #ffa500, red);
+    height: 20;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  #red {
+    background-color: rgba(255, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  #orange {
+    background-color: #ffa500;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  #yellow {
+    background-color: #ffff00;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  #green {
+    background-color: #008000;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  #blue {
+    background-color: #0000ff;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  #indigo {
+    background-color: #4b0082;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
+  #violet {
+    background-color: #ee82ee;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+  }
